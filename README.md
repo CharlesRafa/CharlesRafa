@@ -14,7 +14,6 @@
 ## My Skills
 
 #### Main Stack:
-
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -33,7 +32,7 @@ Analise e Desenvolvimento de Sistema
 
 #### Databases:
 ![SQLite3](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-
+![MYsql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
