@@ -1,13 +1,13 @@
 
-<p align="center">I ❤️ resolver great challenges using tech. <br><br> From backend development using PYTHON to frontend development using JavaScript, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia.
+
+Do desenvolvimento BACK-END usando PYTHON ao desenvolvimento FRONT-END usando JavaScript, sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um desenvolvedor FULL-STACK de nível médio focado em IA inteligênca artificial, Analíse de dados, Automações e Desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=CharlesRafa&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-CharlesRafa.vercel.app/api/top-langs/?username=CharlesRafa&show_icons=true&theme=radical&layout=compact" />
  </div>
  
- &nbsp;
- &nbsp;
 
 
 
